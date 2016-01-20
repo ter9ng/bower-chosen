@@ -5,8 +5,8 @@
   "main": [
     "chosen.jquery.js",
     "chosen.css",
-    "chosen-sprite@2x.png",
-    "chosen-sprite.png"
+    "../images/chosen-sprite@2x.png",
+    "../images/chosen-sprite.png"
   ],
   "license": [
     {
